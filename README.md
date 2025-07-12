@@ -15,7 +15,7 @@
   - **Gesture-controlled games** using MediaPipe + PyGame
   - **Smart Budgeting App** for Indian gig workers
   - Full-stack **food ordering website** & app for Bale Idli Dosa
-- 🛠️ Exploring: `Three.js`, `Next.js`, `LLMs`, `Augmented Reality`
+
 - ✍️ I write clean, modular, and scalable code
 - 🌱 Always learning and building side projects
 
@@ -24,7 +24,7 @@
 ### ⚒️ Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,java,html,css,tailwind,flask,opencv,tensorflow,git,github,mongodb,firebase,vscode,postman,netlify,vercel" />
+  <img src="https://skillicons.dev/icons?i=python,js,java,html,css,tailwind,flask,opencv,git,github,mongodb,firebase,vscode,vercel" />
 </p>
 
 ---
@@ -60,8 +60,8 @@
 ### 📫 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/shashwat-mishra-1a7a62225" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
-  <a href="mailto:shashwatxyz81@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge" /></a>
+  <a href="https://www.linkedin.com/in/shashwat26" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
+  <a href="mailto:mishrashashwat112@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge" /></a>
   <a href="https://github.com/shashwat-81"><img src="https://img.shields.io/badge/GitHub-100000?logo=github&style=for-the-badge&logoColor=white" /></a>
 </p>
 
