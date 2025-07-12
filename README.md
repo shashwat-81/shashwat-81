@@ -46,7 +46,7 @@
 ### 🔥 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=shashwat-81&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shashwat-81&theme=tokyo-night" />
 </p>
 
 ---
@@ -54,7 +54,7 @@
 ### 🚀 Featured Projects
 
 | Project | Description |
-|--------|-------------|
+|---------|-------------|
 | 🧠 [**Parkinson’s Detection AI**](https://github.com/shashwat-81) | Hybrid AI system using `Wav2Vec2 + Vision Transformer` to detect Parkinson’s via voice and drawings |
 | 🎮 [**Gesture-Controlled Games**](https://github.com/shashwat-81) | Real-time Temple Run-style game using `MediaPipe`, `OpenCV`, and `PyGame` |
 | 📦 [**Smart Budgeting App**](https://github.com/shashwat-81) | Income prediction, tax calculation, gamified savings, Streamlit UI |
