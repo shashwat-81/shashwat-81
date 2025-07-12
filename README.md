@@ -23,7 +23,7 @@
 ### ⚒️ Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,java,html,css,tailwind,flask,opencv,git,github,mongodb,firebase,vscode,vercel" />
+  <img src="https://skillicons.dev/icons?i=python,js,java,html,css,tailwind,flask,opencv,git,github,mongodb,sql,firebase,vscode,vercel" />
 </p>
 
 ---
