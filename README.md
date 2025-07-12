@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Computer Science student & AI/ML enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Python+%7C+JavaScript+%7C+Flask+%7C+OpenCV+%7C+ML+%7C+Full+Stack+Dev;Let's+build+cool+things+together+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Python+%7C+JavaScript+%7C+Flask+%7C+OpenCV+%7C+ML+%7C+Full+Stack+Dev;Let's+build+cool+things+together+🚀" alt="Typing SVG" />
 </p>
 
 ---
@@ -15,7 +15,6 @@
   - **Gesture-controlled games** using MediaPipe + PyGame
   - **Smart Budgeting App** for Indian gig workers
   - Full-stack **food ordering website** & app for Bale Idli Dosa
-
 - ✍️ I write clean, modular, and scalable code
 - 🌱 Always learning and building side projects
 
@@ -60,16 +59,17 @@
 ### 📫 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/shashwat26" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
-  <a href="mailto:mishrashashwat112@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge" /></a>
-  <a href="https://github.com/shashwat-81"><img src="https://img.shields.io/badge/GitHub-100000?logo=github&style=for-the-badge&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/shashwat26" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
+  </a>
+  <a href="mailto:mishrashashwat112@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge" />
+  </a>
+  <a href="https://github.com/shashwat-81">
+    <img src="https://img.shields.io/badge/GitHub-100000?logo=github&style=for-the-badge&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-### 🧩 Fun Fact
-
-> “I love building smart systems that feel like magic — one line of code at a time.”
-
----
-
+> _“Code with curiosity. Build with purpose.”_
