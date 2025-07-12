@@ -1,8 +1,14 @@
-<h1 align="center">Hi 👋, I'm Shashwat Mishra</h1>
-<h3 align="center">A passionate Computer Science student & AI/ML enthusiast</h3>
+<h1 align="center">Hey there! 👋 I'm <span style="color:#4FC3F7;">Shashwat Mishra</span></h1>
+<h3 align="center">🚀 Computer Science Student | 💡 AI/ML Enthusiast | 🛠️ Full-Stack Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Python+%7C+JavaScript+%7C+Flask+%7C+OpenCV+%7C+ML+%7C+Full+Stack+Dev;Let's+build+cool+things+together+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Shashwat+%F0%9F%91%8B;Computer+Science+Student+%7C+Full+Stack+Dev+%7C+AI+Builder;I+love+Python,+ML,+JavaScript,+and+building+cool+things!;Welcome+to+my+GitHub+profile+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  I'm a <strong>curious and driven Computer Science undergrad</strong> who loves turning ideas into reality through code.  
+  I enjoy building smart systems with <strong>Python</strong>, bringing life to the browser with <strong>JavaScript</strong>, and exploring the magic of <strong>AI, ML, and Computer Vision</strong>.  
+  I'm currently focused on <strong>real-world projects</strong>, combining multiple technologies to solve meaningful problems.
 </p>
 
 ---
@@ -23,7 +29,7 @@
 ### ⚒️ Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,java,html,css,tailwind,flask,opencv,git,github,mongodb,SQL,firebase,vscode,vercel" />
+  <img src="https://skillicons.dev/icons?i=python,js,java,html,css,tailwind,flask,opencv,git,github,mongodb,sql,firebase,vscode,vercel" />
 </p>
 
 ---
