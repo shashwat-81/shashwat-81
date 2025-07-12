@@ -6,8 +6,8 @@
 </p>
 
 <p align="center">
-  I'm a <strong>curious and driven Computer Science undergrad</strong> who loves turning ideas into reality through code.  
-  I enjoy building smart systems with <strong>Python</strong>, bringing life to the browser with <strong>JavaScript</strong>, and exploring the magic of <strong>AI, ML, and Computer Vision</strong>.  
+  I'm a <strong>curious and driven Computer Science undergrad</strong> who loves turning ideas into reality through code.<br>
+  I enjoy building smart systems with <strong>Python</strong>, bringing life to the browser with <strong>JavaScript</strong>, and exploring the magic of <strong>AI, ML, and Computer Vision</strong>.<br>
   I'm currently focused on <strong>real-world projects</strong>, combining multiple technologies to solve meaningful problems.
 </p>
 
@@ -31,7 +31,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,java,html,css,tailwind,flask,opencv,git,github,mongodb,mysql,firebase,vscode,vercel" />
 </p>
-
 
 ---
 
