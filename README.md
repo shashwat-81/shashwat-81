@@ -41,13 +41,6 @@
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashwat-81&layout=compact&theme=tokyonight" />
 </p>
 
----
-
-### 🔥 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shashwat-81&theme=tokyo-night" />
-</p>
 
 ---
 
