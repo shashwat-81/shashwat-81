@@ -34,15 +34,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=shashwat-81&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=10" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashwat-81&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ### 🚀 Featured Projects
 
 | 🚧 Project | 💡 Description |
