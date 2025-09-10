@@ -1,9 +1,9 @@
 <h1 align="center">Hey there! 👋 I'm <span style="color:#4FC3F7;">Shashwat Mishra</span></h1>
-<h3 align="center">🚀 Computer Science Student | 💡 AI/ML Enthusiast | 🛠️ Full-Stack Developer</h3>
+<h3 align="center">🚀 Computer Science Student </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Shashwat+%F0%9F%91%8B;Computer+Science+Student+%7C+Full+Stack+Dev+%7C+AI+Builder;I+love+Python,+ML,+JavaScript,+and+building+cool+things!;Welcome+to+my+GitHub+profile+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&center=true&vCenter=true&width=600&lines=Hi!+I'm+Shashwat+%F0%9F%91%8B;CS+Student+%7C+Full+Stack+Dev;AI+%26+ML+Enthusiast;Love+Python,+JS,+and+Java;Building+Cool+Projects+%F0%9F%9A%80" alt="Typing SVG" />
+
 
 <p align="center">
   I'm a <strong>curious and driven Computer Science undergrad</strong> who loves turning ideas into reality through code.<br>
@@ -20,7 +20,6 @@
   - 🧠 A **hybrid AI system** for Parkinson's Detection (Voice + Spiral Drawing)
   - 🎮 **Gesture-controlled games** using MediaPipe + PyGame
   - 💰 **Smart Budgeting App** for Indian gig workers
-  - 🍽️ Full-stack **food ordering website** & app for Bale Idli Dosa
 - ✍️ I write clean, modular, and scalable code
 - 🌱 Always learning and building side projects
 
@@ -29,7 +28,7 @@
 ### ⚒️ Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,java,html,css,tailwind,flask,opencv,git,github,mongodb,mysql,firebase,vscode,vercel" />
+  <img src="https://skillicons.dev/icons?i=python,js,java,html,css,opencv,git,github,mongodb,mysql,firebase,vscode,vercel" />
 </p>
 
 ---
