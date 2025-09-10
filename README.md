@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! 👋 I'm <span style="color:#4FC3F7;">Shashwat Mishra</span></h1>
-<h3 align="center">🚀 Computer Science Student </h3>
+<!-- <h3 align="center">🚀 Computer Science Student </h3> -->
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&center=true&vCenter=true&width=600&lines=Hi!+I'm+Shashwat+%F0%9F%91%8B;CS+Student+%7C+Full+Stack+Dev;AI+%26+ML+Enthusiast;Love+Python,+JS,+and+Java;Building+Cool+Projects+%F0%9F%9A%80" alt="Typing SVG" />
