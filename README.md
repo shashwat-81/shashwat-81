@@ -1,7 +1,4 @@
 <!-- Dark • Minimal • Sleek -->
-
-<h1 align="center">Hey 👋 I'm Shashwat</h1>
-
 <p align="center">
   <samp>Frontend Developer · Cloud & DevOps Enthusiast</samp><br />
   <samp>AWS · Docker </samp>
