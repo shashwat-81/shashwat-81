@@ -1,7 +1,7 @@
 <!-- Dark • Minimal • Sleek -->
 <p align="center">
   <samp>Frontend Developer · Cloud & DevOps Enthusiast</samp><br />
-  <samp>AWS · Docker </samp>
+  <samp>AWS · Docker . Jenkins</samp>
 </p>
 
 ---
